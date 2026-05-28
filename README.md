@@ -57,7 +57,7 @@ Each check returns a **PASS** or **FAIL** with a description of what was found o
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/gdpr-compliance-checker.git
+git clone https://github.com/Ayush-Vakharia/gdpr-compliance-checker.git
 cd gdpr-compliance-checker
 
 # Make the script executable
