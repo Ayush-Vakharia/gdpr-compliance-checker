@@ -11,15 +11,25 @@ Manual GDPR compliance checks are slow, inconsistent, and easy to get wrong. Thi
 | # | Check | What It Verifies |
 
 | 1 | HTTPS | Site uses HTTPS |
+
 | 2 | SSL Certificate | SSL certificate is valid |
+
 | 3 | Privacy Policy | Privacy policy is accessible |
+
 | 4 | Cookie Consent | Cookie consent mechanism exists |
+
 | 5 | Contact / DPO | Data Protection Officer or contact info is present |
+
 | 6 | Terms of Service | Terms of service page exists |
+
 | 7 | Cookie Declaration | Cookie usage details are provided |
+
 | 8 | Third-party Trackers | No major third-party trackers detected |
+
 | 9 | EU Language Support | EU language(s) supported |
+
 | 10 | Withdrawal of Consent | Opt-out or consent withdrawal option exists |
+
 | 11-15 | Additional checks | Further GDPR requirements |
 
 Each check returns a **PASS** or **FAIL** with a description of what was found or missing.
